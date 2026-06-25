@@ -73,6 +73,8 @@ def prompt_credentials(*, require_roblox: bool = True) -> dict[str, Any]:
     print("  gag.gg Auto-Swiper")
     print("=" * 44)
     print()
+    print("Tutorial: https://www.youtube.com/watch?v=UtXEemm3Y80")
+    print()
     print("Get these from your browser (DevTools → Application → Cookies):")
     print("  • gag.gg  →  __Host-gag_session")
     if require_roblox:
